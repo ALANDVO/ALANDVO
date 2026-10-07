@@ -15,7 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
-Browse [my public repositories](https://github.com/ALANDVO?tab=repositories) for current work. AI portfolio projects are being developed; no unfinished project is presented here as a completed showcase.
+- [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Deterministic CVE normalization, multi-factor risk scoring, and grounded LLM advisory briefings evaluated via a lexical ML threat taxonomy benchmark.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
