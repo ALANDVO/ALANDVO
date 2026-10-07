@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — AI/ML Model Evaluation Arena comparing classification and regression predictions with bootstrap confidence intervals, paired hypothesis testing, cohort slice analysis, and grounded advisory audit reports.
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Deterministic CVE normalization, multi-factor risk scoring, and grounded LLM advisory briefings evaluated via a lexical ML threat taxonomy benchmark.
 <!-- portfolio-projects:end -->
 
