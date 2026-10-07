@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — AI-driven log anomaly detector combining deterministic template sequence mining with multi-provider LLM incident correlation and root-cause advisory.
 - [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — AI/ML Model Evaluation Arena comparing classification and regression predictions with bootstrap confidence intervals, paired hypothesis testing, cohort slice analysis, and grounded advisory audit reports.
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Deterministic CVE normalization, multi-factor risk scoring, and grounded LLM advisory briefings evaluated via a lexical ML threat taxonomy benchmark.
 <!-- portfolio-projects:end -->
