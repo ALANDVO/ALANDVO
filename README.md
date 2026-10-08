@@ -15,7 +15,12 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Deterministic and LLM-assisted prompt evaluation, mutation-based optimization, and multi-model benchmarking harness.
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Audits RAG answers against cited passages with deterministic sentence attribution, numeric claim verification, and human evidence review.
+- [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — AI-driven log anomaly detector combining deterministic template sequence mining with multi-provider LLM incident correlation and root-cause advisory.
+- [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — AI agent execution trace observatory providing deterministic tool-call DAG visualization, token cost attribution, failure pattern classification, and automated input redaction with reproducible benchmark evaluations.
+- [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — AI/ML Model Evaluation Arena comparing classification and regression predictions with bootstrap confidence intervals, paired hypothesis testing, cohort slice analysis, and grounded advisory audit reports.
+- [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Deterministic CVE normalization, multi-factor risk scoring, and grounded LLM advisory briefings evaluated via a lexical ML threat taxonomy benchmark.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
