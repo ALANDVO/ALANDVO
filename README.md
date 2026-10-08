@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [rag engine alan vo](https://github.com/ALANDVO/rag-engine-alan-vo) — Retrieval-Augmented Generation engine featuring hybrid dense-sparse retrieval, deterministic citation attribution, and faithfulness evaluation.
 - [model release gatekeeper alan vo](https://github.com/ALANDVO/model-release-gatekeeper-alan-vo) — Evaluate model release candidates against configurable metric thresholds, record approvals and export signed-off release manifests.
 - [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Deterministic and LLM-assisted prompt evaluation, mutation-based optimization, and multi-model benchmarking harness.
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Audits RAG answers against cited passages with deterministic sentence attribution, numeric claim verification, and human evidence review.
