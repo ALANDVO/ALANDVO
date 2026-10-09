@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Trace inherited identity grants, review risk evidence and simulate controlled remediation.
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Multi-language static analysis and LLM-assisted code review engine with empirical defect detection benchmarking and Keycloak OIDC/SAML authentication.
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Inspects uploaded images for perceptual duplicates, EXIF privacy issues, and dimension quality; curates stratified train/val/test splits using deterministic hashing; and exports ML-ready JSONL/CSV/COCO manifests.
 - [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Train and evaluate a local TF-IDF intent classifier from labeled customer support tickets, analyze confusion matrices, and triage uncertain tickets into human review queues.
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [model release gatekeeper alan vo](https://github.com/ALANDVO/model-release-gatekeeper-alan-vo) — Evaluate model release candidates against configurable metric thresholds, record approvals and export signed-off release manifests.
 - [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Deterministic and LLM-assisted prompt evaluation, mutation-based optimization, and multi-model benchmarking harness.
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Audits RAG answers against cited passages with deterministic sentence attribution, numeric claim verification, and human evidence review.
-- [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — AI-driven log anomaly detector combining deterministic template sequence mining with multi-provider LLM incident correlation and root-cause advisory.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
