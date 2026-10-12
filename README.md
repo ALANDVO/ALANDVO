@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ml feature forge alan vo](https://github.com/ALANDVO/ml-feature-forge-alan-vo) — Work in progress: ml-feature-forge-alan-vo
 - [vector console alan vo](https://github.com/ALANDVO/vector-console-alan-vo) — Work in progress: vector-console-alan-vo
 - [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
 - [orbit forge alan vo](https://github.com/ALANDVO/orbit-forge-alan-vo) — Work in progress: orbit-forge-alan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
-- [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
