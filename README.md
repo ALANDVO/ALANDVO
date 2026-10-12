@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit forge alan vo](https://github.com/ALANDVO/orbit-forge-alan-vo) — Work in progress: orbit-forge-alan-vo
 - [api fuzzer alan vo](https://github.com/ALANDVO/api-fuzzer-alan-vo) — Work in progress: api-fuzzer-alan-vo
 - [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Import CI logs, fingerprint failure signatures, investigate same-commit mixed outcomes, and prioritize auditable remediation using measured job time and explicit investigation estimates.
 - [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Source-backed meeting minutes, independent approval and action tracking with optional grounded model suggestions
-- [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Trace inherited identity grants, review risk evidence and simulate controlled remediation.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
