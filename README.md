@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
 - [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Import CI logs, fingerprint failure signatures, investigate same-commit mixed outcomes, and prioritize auditable remediation using measured job time and explicit investigation estimates.
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Trace inherited identity grants, review risk evidence and simulate controlled remediation.
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Multi-language static analysis and LLM-assisted code review engine with empirical defect detection benchmarking and Keycloak OIDC/SAML authentication.
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Inspects uploaded images for perceptual duplicates, EXIF privacy issues, and dimension quality; curates stratified train/val/test splits using deterministic hashing; and exports ML-ready JSONL/CSV/COCO manifests.
-- [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Train and evaluate a local TF-IDF intent classifier from labeled customer support tickets, analyze confusion matrices, and triage uncertain tickets into human review queues.
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
