@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ai data pipeline alan vo](https://github.com/ALANDVO/ai-data-pipeline-alan-vo) — Work in progress: ai-data-pipeline-alan-vo
 - [vector workbench alan vo](https://github.com/ALANDVO/vector-workbench-alan-vo) — Work in progress: vector-workbench-alan-vo
 - [ai ml platform alan vo](https://github.com/ALANDVO/ai-ml-platform-alan-vo) — Work in progress: ai-ml-platform-alan-vo
 - [signal lens alan vo](https://github.com/ALANDVO/signal-lens-alan-vo) — Work in progress: signal-lens-alan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [signal studio alan vo](https://github.com/ALANDVO/signal-studio-alan-vo) — Work in progress: signal-studio-alan-vo
 - [log to observability alan vo](https://github.com/ALANDVO/log-to-observability-alan-vo) — Work in progress: log-to-observability-alan-vo
 - [lumen station alan vo](https://github.com/ALANDVO/lumen-station-alan-vo) — Work in progress: lumen-station-alan-vo
-- [ai pair programmer alan vo](https://github.com/ALANDVO/ai-pair-programmer-alan-vo) — Work in progress: ai-pair-programmer-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
