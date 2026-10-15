@@ -12,6 +12,18 @@ I build and explore open-source AI and machine learning tools, with a focus on d
 
 My research interests include **artificial superintelligence (ASI)** and the questions it raises about reasoning, alignment, evaluation, and safe autonomy. This is a research direction, not a claim that these projects implement superintelligence.
 
+<!-- portfolio-contributions:start -->
+## Merged open-source contributions
+
+Accepted contributions to other projects. Each link shows the patch, review discussion, and merge record.
+
+- **addyosmani/agent-skills** — [fix(linter): ignore comments and nested metadata keys in skill frontmatter (#658)](https://github.com/addyosmani/agent-skills/pull/658) · merged 2026-10-10
+- **ifixai-ai/iFixAi** — [fix(cli): allow validating built-in fixture names in validate command (#227)](https://github.com/ifixai-ai/iFixAi/pull/227) · merged 2026-10-09
+- **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044) · merged 2026-10-08
+- **chrisvo/shipcari** — [Upgrade OS version (#2)](https://github.com/chrisvo/shipcari/pull/2) · merged 2022-03-21
+
+<!-- portfolio-contributions:end -->
+
 ## Public projects
 
 <!-- portfolio-projects:start -->
