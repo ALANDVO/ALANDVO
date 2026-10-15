@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom console alan vo](https://github.com/ALANDVO/axiom-console-alan-vo) — Work in progress: axiom-console-alan-vo
 - [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — Work in progress: model-evaluation-arena-alan-vo
 - [atlas lab alan vo](https://github.com/ALANDVO/atlas-lab-alan-vo) — Work in progress: atlas-lab-alan-vo
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [ai factory alan vo](https://github.com/ALANDVO/ai-factory-alan-vo) — Work in progress: ai-factory-alan-vo
 - [prism workbench alan vo](https://github.com/ALANDVO/prism-workbench-alan-vo) — Work in progress: prism-workbench-alan-vo
 - [cloud infra planner alan vo](https://github.com/ALANDVO/cloud-infra-planner-alan-vo) — Work in progress: cloud-infra-planner-alan-vo
-- [cobalt station alan vo](https://github.com/ALANDVO/cobalt-station-alan-vo) — Work in progress: cobalt-station-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
