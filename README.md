@@ -15,6 +15,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas foundry alan vo](https://github.com/ALANDVO/atlas-foundry-alan-vo) — Work in progress: atlas-foundry-alan-vo
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
 - [axiom foundry alan vo](https://github.com/ALANDVO/axiom-foundry-alan-vo) — Work in progress: axiom-foundry-alan-vo
 - [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Work in progress: support-intent-observatory-alan-vo
@@ -22,7 +23,6 @@ My research interests include **artificial superintelligence (ASI)** and the que
 - [rag engine alan vo](https://github.com/ALANDVO/rag-engine-alan-vo) — Work in progress: rag-engine-alan-vo
 - [atlas workbench alan vo](https://github.com/ALANDVO/atlas-workbench-alan-vo) — Work in progress: atlas-workbench-alan-vo
 - [model release gatekeeper alan vo](https://github.com/ALANDVO/model-release-gatekeeper-alan-vo) — Work in progress: model-release-gatekeeper-alan-vo
-- [nexus workbench alan vo](https://github.com/ALANDVO/nexus-workbench-alan-vo) — Work in progress: nexus-workbench-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
