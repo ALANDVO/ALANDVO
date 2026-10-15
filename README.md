@@ -13,14 +13,29 @@ I build and explore open-source AI and machine learning tools, with a focus on d
 My research interests include **artificial superintelligence (ASI)** and the questions it raises about reasoning, alignment, evaluation, and safe autonomy. This is a research direction, not a claim that these projects implement superintelligence.
 
 <!-- portfolio-contributions:start -->
-## Merged open-source contributions
+## Open-source contributions
 
-Accepted contributions to other projects. Each link shows the patch, review discussion, and merge record.
+Pull requests submitted to other projects. Status is shown for each submission; open or closed submissions are not presented as merged work.
 
-- **addyosmani/agent-skills** — [fix(linter): ignore comments and nested metadata keys in skill frontmatter (#658)](https://github.com/addyosmani/agent-skills/pull/658) · merged 2026-10-10
-- **ifixai-ai/iFixAi** — [fix(cli): allow validating built-in fixture names in validate command (#227)](https://github.com/ifixai-ai/iFixAi/pull/227) · merged 2026-10-09
-- **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044) · merged 2026-10-08
-- **chrisvo/shipcari** — [Upgrade OS version (#2)](https://github.com/chrisvo/shipcari/pull/2) · merged 2022-03-21
+- **SegFault42/HeliosGen** — [Allow tempfile.aiquickdraw.com in /api/download origin allow-list (issue #30) (#40)](https://github.com/SegFault42/HeliosGen/pull/40) · **Open**
+- **KittenML/KittenTTS** — [Split long ONNX inputs to respect the 512-token BERT limit (#162)](https://github.com/KittenML/KittenTTS/pull/162) · **Open**
+- **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289) · **Open**
+- **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044) · **Merged**
+- **PurpleDoubleD/locally-uncensored** — [Preserve fenced code in compact conversation summaries (#154)](https://github.com/PurpleDoubleD/locally-uncensored/pull/154) · **Closed without merge**
+- **lyogavin/airllm** — [Load single-file checkpoints once upfront during splitting and handle non-numeric shard names (#380)](https://github.com/lyogavin/airllm/pull/380) · **Open**
+- **addyosmani/agent-skills** — [fix(linter): ignore comments and nested metadata keys in skill frontmatter (#658)](https://github.com/addyosmani/agent-skills/pull/658) · **Merged**
+- **JayWebtech/autoshorts** — [fix: escape drive-letter colons in caption font paths (#48)](https://github.com/JayWebtech/autoshorts/pull/48) · **Open**
+- **ifixai-ai/iFixAi** — [fix(cli): allow validating built-in fixture names in validate command (#227)](https://github.com/ifixai-ai/iFixAi/pull/227) · **Merged**
+- **666ghj/MiroFish** — [fix: order simulation history before applying the result limit (#856)](https://github.com/666ghj/MiroFish/pull/856) · **Open**
+
+<details>
+<summary>More contributions</summary>
+
+- **cloudflare/security-audit-skill** — [Allow multiple local checks in an archived attempt to share an artifact (#70)](https://github.com/cloudflare/security-audit-skill/pull/70) · **Open**
+- **Panniantong/Agent-Reach** — [fix(xueqiu): validate limit and clamp max size in get_hot_stocks and search_stock (#795)](https://github.com/Panniantong/Agent-Reach/pull/795) · **Open**
+- **chrisvo/shipcari** — [Upgrade OS version (#2)](https://github.com/chrisvo/shipcari/pull/2) · **Merged**
+
+</details>
 
 <!-- portfolio-contributions:end -->
 
