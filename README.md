@@ -17,9 +17,9 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289)
 - **SegFault42/HeliosGen** — [Allow tempfile.aiquickdraw.com in /api/download origin allow-list (issue #30) (#40)](https://github.com/SegFault42/HeliosGen/pull/40)
 - **KittenML/KittenTTS** — [Split long ONNX inputs to respect the 512-token BERT limit (#162)](https://github.com/KittenML/KittenTTS/pull/162)
-- **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289)
 - **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044)
 - **PurpleDoubleD/locally-uncensored** — [Preserve fenced code in compact conversation summaries (#154)](https://github.com/PurpleDoubleD/locally-uncensored/pull/154)
 - **lyogavin/airllm** — [Load single-file checkpoints once upfront during splitting and handle non-numeric shard names (#380)](https://github.com/lyogavin/airllm/pull/380)
