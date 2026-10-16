@@ -42,6 +42,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
 - [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Work in progress: meeting-minutes-alan-vo
 - [atlas forge alan vo](https://github.com/ALANDVO/atlas-forge-alan-vo) — Work in progress: atlas-forge-alan-vo
 - [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Work in progress: identity-risk-workbench-alan-vo
@@ -49,7 +50,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Work in progress: code-review-ai-alan-vo
 - [atlas foundry alan vo](https://github.com/ALANDVO/atlas-foundry-alan-vo) — Work in progress: atlas-foundry-alan-vo
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
-- [axiom foundry alan vo](https://github.com/ALANDVO/axiom-foundry-alan-vo) — Work in progress: axiom-foundry-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
