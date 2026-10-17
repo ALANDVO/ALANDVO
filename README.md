@@ -46,6 +46,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector console alan vo](https://github.com/ALANDVO/vector-console-alan-vo) — Work in progress: vector-console-alan-vo
 - [nexus station alan vo](https://github.com/ALANDVO/nexus-station-alan-vo) — Work in progress: nexus-station-alan-vo
 - [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
 - [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
@@ -53,7 +54,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
 - [api fuzzer alan vo](https://github.com/ALANDVO/api-fuzzer-alan-vo) — Work in progress: api-fuzzer-alan-vo
 - [nexus forge alan vo](https://github.com/ALANDVO/nexus-forge-alan-vo) — Work in progress: nexus-forge-alan-vo
-- [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
