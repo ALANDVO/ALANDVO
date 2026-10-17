@@ -45,6 +45,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit forge alan vo](https://github.com/ALANDVO/orbit-forge-alan-vo) — Work in progress: orbit-forge-alan-vo
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
 - [api fuzzer alan vo](https://github.com/ALANDVO/api-fuzzer-alan-vo) — Work in progress: api-fuzzer-alan-vo
 - [nexus forge alan vo](https://github.com/ALANDVO/nexus-forge-alan-vo) — Work in progress: nexus-forge-alan-vo
@@ -52,7 +53,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt foundry alan vo](https://github.com/ALANDVO/cobalt-foundry-alan-vo) — Work in progress: cobalt-foundry-alan-vo
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [nexus lens alan vo](https://github.com/ALANDVO/nexus-lens-alan-vo) — Work in progress: nexus-lens-alan-vo
-- [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
