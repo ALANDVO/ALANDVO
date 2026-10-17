@@ -17,6 +17,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **rohitg00/ai-engineering-from-scratch** — [Add Summary cheat-sheet section support to lesson pages (#622)](https://github.com/rohitg00/ai-engineering-from-scratch/pull/622)
 - **MadsLorentzen/ai-job-search** — [fix(job-scraper): separate Portal CLI search terms from WebSearch site: fallback (#536) (#600)](https://github.com/MadsLorentzen/ai-job-search/pull/600)
 - **affaan-m/ECC** — [fix: respect CLAUDE_CONFIG_DIR with WSL Windows-path conversion (#3602)](https://github.com/affaan-m/ECC/pull/3602)
 - **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289)
@@ -26,11 +27,11 @@ Fixes and improvements I’ve submitted to open-source projects.
 - **PurpleDoubleD/locally-uncensored** — [Preserve fenced code in compact conversation summaries (#154)](https://github.com/PurpleDoubleD/locally-uncensored/pull/154)
 - **lyogavin/airllm** — [Load single-file checkpoints once upfront during splitting and handle non-numeric shard names (#380)](https://github.com/lyogavin/airllm/pull/380)
 - **addyosmani/agent-skills** — [fix(linter): ignore comments and nested metadata keys in skill frontmatter (#658)](https://github.com/addyosmani/agent-skills/pull/658)
-- **JayWebtech/autoshorts** — [fix: escape drive-letter colons in caption font paths (#48)](https://github.com/JayWebtech/autoshorts/pull/48)
 
 <details>
 <summary>More contributions</summary>
 
+- **JayWebtech/autoshorts** — [fix: escape drive-letter colons in caption font paths (#48)](https://github.com/JayWebtech/autoshorts/pull/48)
 - **ifixai-ai/iFixAi** — [fix(cli): allow validating built-in fixture names in validate command (#227)](https://github.com/ifixai-ai/iFixAi/pull/227)
 - **666ghj/MiroFish** — [fix: order simulation history before applying the result limit (#856)](https://github.com/666ghj/MiroFish/pull/856)
 - **cloudflare/security-audit-skill** — [Allow multiple local checks in an archived attempt to share an artifact (#70)](https://github.com/cloudflare/security-audit-skill/pull/70)
