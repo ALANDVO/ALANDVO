@@ -17,12 +17,12 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **affaan-m/ECC** — [fix: respect CLAUDE_CONFIG_DIR with WSL Windows-path conversion (#3602)](https://github.com/affaan-m/ECC/pull/3602)
 - **MadsLorentzen/ai-job-search** — [fix(job-scraper): separate Portal CLI search terms from WebSearch site: fallback (#536) (#600)](https://github.com/MadsLorentzen/ai-job-search/pull/600)
 - **ShawnPana/phone-harness** — [docs: add CHANGELOG.md and pin published version in install.md (#144)](https://github.com/ShawnPana/phone-harness/pull/144)
 - **tashfeenahmed/freellmapi** — [fix(model-discovery): route custom-endpoint models with modality metadata to their native table (#1506) (#1556)](https://github.com/tashfeenahmed/freellmapi/pull/1556)
 - **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289)
 - **rohitg00/ai-engineering-from-scratch** — [Add Summary cheat-sheet section support to lesson pages (#622)](https://github.com/rohitg00/ai-engineering-from-scratch/pull/622)
-- **affaan-m/ECC** — [fix: respect CLAUDE_CONFIG_DIR with WSL Windows-path conversion (#3602)](https://github.com/affaan-m/ECC/pull/3602)
 - **SegFault42/HeliosGen** — [Allow tempfile.aiquickdraw.com in /api/download origin allow-list (issue #30) (#40)](https://github.com/SegFault42/HeliosGen/pull/40)
 - **KittenML/KittenTTS** — [Split long ONNX inputs to respect the 512-token BERT limit (#162)](https://github.com/KittenML/KittenTTS/pull/162)
 - **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044)
