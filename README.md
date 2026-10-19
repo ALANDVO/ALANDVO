@@ -17,6 +17,7 @@ My research interests include **artificial superintelligence (ASI)** and the que
 
 Fixes and improvements I’ve submitted to open-source projects.
 
+- **lyogavin/airllm** — [Load single-file checkpoints once upfront during splitting and handle non-numeric shard names (#380)](https://github.com/lyogavin/airllm/pull/380)
 - **KittenML/KittenTTS** — [Split long ONNX inputs to respect the 512-token BERT limit (#162)](https://github.com/KittenML/KittenTTS/pull/162)
 - **JuliusBrussee/caveman** — [fix(antigravity-cli): declare contextFileName in agy plugin.json (#1289)](https://github.com/JuliusBrussee/caveman/pull/1289)
 - **MadsLorentzen/ai-job-search** — [fix(job-scraper): separate Portal CLI search terms from WebSearch site: fallback (#536) (#600)](https://github.com/MadsLorentzen/ai-job-search/pull/600)
@@ -26,12 +27,11 @@ Fixes and improvements I’ve submitted to open-source projects.
 - **tashfeenahmed/freellmapi** — [fix(model-discovery): route custom-endpoint models with modality metadata to their native table (#1506) (#1556)](https://github.com/tashfeenahmed/freellmapi/pull/1556)
 - **SegFault42/HeliosGen** — [Allow tempfile.aiquickdraw.com in /api/download origin allow-list (issue #30) (#40)](https://github.com/SegFault42/HeliosGen/pull/40)
 - **morluto/rea** — [fix(hopper): diagnose MCP provider failures with stage, state, and request context (#1044)](https://github.com/morluto/rea/pull/1044)
-- **PurpleDoubleD/locally-uncensored** — [Preserve fenced code in compact conversation summaries (#154)](https://github.com/PurpleDoubleD/locally-uncensored/pull/154)
 
 <details>
 <summary>More contributions</summary>
 
-- **lyogavin/airllm** — [Load single-file checkpoints once upfront during splitting and handle non-numeric shard names (#380)](https://github.com/lyogavin/airllm/pull/380)
+- **PurpleDoubleD/locally-uncensored** — [Preserve fenced code in compact conversation summaries (#154)](https://github.com/PurpleDoubleD/locally-uncensored/pull/154)
 - **addyosmani/agent-skills** — [fix(linter): ignore comments and nested metadata keys in skill frontmatter (#658)](https://github.com/addyosmani/agent-skills/pull/658)
 - **JayWebtech/autoshorts** — [fix: escape drive-letter colons in caption font paths (#48)](https://github.com/JayWebtech/autoshorts/pull/48)
 - **ifixai-ai/iFixAi** — [fix(cli): allow validating built-in fixture names in validate command (#227)](https://github.com/ifixai-ai/iFixAi/pull/227)
