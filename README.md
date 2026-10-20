@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism lab alan vo](https://github.com/ALANDVO/prism-lab-alan-vo) — Work in progress: prism-lab-alan-vo
 - [tensor foundry alan vo](https://github.com/ALANDVO/tensor-foundry-alan-vo) — Work in progress: tensor-foundry-alan-vo
 - [orbit engine alan vo](https://github.com/ALANDVO/orbit-engine-alan-vo) — Work in progress: orbit-engine-alan-vo
 - [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [axiom lens alan vo](https://github.com/ALANDVO/axiom-lens-alan-vo) — Work in progress: axiom-lens-alan-vo
 - [axiom workbench alan vo](https://github.com/ALANDVO/axiom-workbench-alan-vo) — Diffusion model workflow orchestration platform with model registry, graph editor, and local inference engine
 - [security posture scorer alan vo](https://github.com/ALANDVO/security-posture-scorer-alan-vo) — Work in progress: security-posture-scorer-alan-vo
-- [beacon forge alan vo](https://github.com/ALANDVO/beacon-forge-alan-vo) — Work in progress: beacon-forge-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
