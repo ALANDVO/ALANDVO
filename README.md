@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen station alan vo](https://github.com/ALANDVO/lumen-station-alan-vo) — Work in progress: lumen-station-alan-vo
 - [ai pair programmer alan vo](https://github.com/ALANDVO/ai-pair-programmer-alan-vo) — Work in progress: ai-pair-programmer-alan-vo
 - [prism lab alan vo](https://github.com/ALANDVO/prism-lab-alan-vo) — Work in progress: prism-lab-alan-vo
 - [tensor foundry alan vo](https://github.com/ALANDVO/tensor-foundry-alan-vo) — Work in progress: tensor-foundry-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
 - [cobalt hub alan vo](https://github.com/ALANDVO/cobalt-hub-alan-vo) — Work in progress: cobalt-hub-alan-vo
 - [axiom lens alan vo](https://github.com/ALANDVO/axiom-lens-alan-vo) — Work in progress: axiom-lens-alan-vo
-- [axiom workbench alan vo](https://github.com/ALANDVO/axiom-workbench-alan-vo) — Diffusion model workflow orchestration platform with model registry, graph editor, and local inference engine
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
