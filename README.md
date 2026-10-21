@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon studio alan vo](https://github.com/ALANDVO/beacon-studio-alan-vo) — Work in progress: beacon-studio-alan-vo
 - [vector workbench alan vo](https://github.com/ALANDVO/vector-workbench-alan-vo) — Work in progress: vector-workbench-alan-vo
 - [orbit observatory alan vo](https://github.com/ALANDVO/orbit-observatory-alan-vo) — Work in progress: orbit-observatory-alan-vo
 - [ai ml platform alan vo](https://github.com/ALANDVO/ai-ml-platform-alan-vo) — Work in progress: ai-ml-platform-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [ai security ops alan vo](https://github.com/ALANDVO/ai-security-ops-alan-vo) — Work in progress: ai-security-ops-alan-vo
 - [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
 - [signal studio alan vo](https://github.com/ALANDVO/signal-studio-alan-vo) — Work in progress: signal-studio-alan-vo
-- [atlas pilot alan vo](https://github.com/ALANDVO/atlas-pilot-alan-vo) — Work in progress: atlas-pilot-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
