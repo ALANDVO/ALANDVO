@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal lens alan vo](https://github.com/ALANDVO/signal-lens-alan-vo) — Work in progress: signal-lens-alan-vo
 - [beacon studio alan vo](https://github.com/ALANDVO/beacon-studio-alan-vo) — Work in progress: beacon-studio-alan-vo
 - [vector workbench alan vo](https://github.com/ALANDVO/vector-workbench-alan-vo) — Work in progress: vector-workbench-alan-vo
 - [orbit observatory alan vo](https://github.com/ALANDVO/orbit-observatory-alan-vo) — Work in progress: orbit-observatory-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor observatory alan vo](https://github.com/ALANDVO/tensor-observatory-alan-vo) — Work in progress: tensor-observatory-alan-vo
 - [ai security ops alan vo](https://github.com/ALANDVO/ai-security-ops-alan-vo) — Work in progress: ai-security-ops-alan-vo
 - [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
-- [signal studio alan vo](https://github.com/ALANDVO/signal-studio-alan-vo) — Work in progress: signal-studio-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
