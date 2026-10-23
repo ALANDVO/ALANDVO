@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ai devops tower alan vo](https://github.com/ALANDVO/ai-devops-tower-alan-vo) — Work in progress: ai-devops-tower-alan-vo
 - [orbit hub 144 alan vo](https://github.com/ALANDVO/orbit-hub-144-alan-vo) — Work in progress: orbit-hub-144-alan-vo
 - [axiom console alan vo](https://github.com/ALANDVO/axiom-console-alan-vo) — Work in progress: axiom-console-alan-vo
 - [signal forge 144 alan vo](https://github.com/ALANDVO/signal-forge-144-alan-vo) — Work in progress: signal-forge-144-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus pilot alan vo](https://github.com/ALANDVO/nexus-pilot-alan-vo) — Work in progress: nexus-pilot-alan-vo
 - [atlas lab alan vo](https://github.com/ALANDVO/atlas-lab-alan-vo) — Work in progress: atlas-lab-alan-vo
 - [sentinel pilot alan vo](https://github.com/ALANDVO/sentinel-pilot-alan-vo) — Work in progress: sentinel-pilot-alan-vo
-- [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
