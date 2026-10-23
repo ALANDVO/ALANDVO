@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus pilot 144 alan vo](https://github.com/ALANDVO/nexus-pilot-144-alan-vo) — Work in progress: nexus-pilot-144-alan-vo
 - [vector foundry alan vo](https://github.com/ALANDVO/vector-foundry-alan-vo) — Work in progress: vector-foundry-alan-vo
 - [signal lens 145 alan vo](https://github.com/ALANDVO/signal-lens-145-alan-vo) — Work in progress: signal-lens-145-alan-vo
 - [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — Work in progress: agent-trace-observatory-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [atlas console alan vo](https://github.com/ALANDVO/atlas-console-alan-vo) — Work in progress: atlas-console-alan-vo
 - [orbit workbench 144 alan vo](https://github.com/ALANDVO/orbit-workbench-144-alan-vo) — Work in progress: orbit-workbench-144-alan-vo
 - [ai devops tower alan vo](https://github.com/ALANDVO/ai-devops-tower-alan-vo) — Work in progress: ai-devops-tower-alan-vo
-- [orbit hub 144 alan vo](https://github.com/ALANDVO/orbit-hub-144-alan-vo) — Work in progress: orbit-hub-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
