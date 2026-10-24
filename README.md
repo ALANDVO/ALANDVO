@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus workbench alan vo](https://github.com/ALANDVO/nexus-workbench-alan-vo) — Work in progress: nexus-workbench-alan-vo
 - [sentinel lens 144 alan vo](https://github.com/ALANDVO/sentinel-lens-144-alan-vo) — Work in progress: sentinel-lens-144-alan-vo
 - [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Work in progress: prompt-optimizer-alan-vo
 - [atlas forge 145 alan vo](https://github.com/ALANDVO/atlas-forge-145-alan-vo) — Work in progress: atlas-forge-145-alan-vo
