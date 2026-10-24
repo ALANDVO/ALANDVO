@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [beacon engine alan vo](https://github.com/ALANDVO/beacon-engine-alan-vo) — Work in progress: beacon-engine-alan-vo
 - [orbit station 144 alan vo](https://github.com/ALANDVO/orbit-station-144-alan-vo) — Work in progress: orbit-station-144-alan-vo
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Work in progress: rag-citation-auditor-alan-vo
 <!-- portfolio-projects:end -->
