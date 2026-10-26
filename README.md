@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt hub 145](https://github.com/ALANDVO/cobalt-hub-145) — Work in progress: cobalt-hub-145
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Work in progress: ci-failure-triage-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
 - [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Work in progress: meeting-minutes-alan-vo
 - [atlas forge alan vo](https://github.com/ALANDVO/atlas-forge-alan-vo) — Work in progress: atlas-forge-alan-vo
 - [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Work in progress: identity-risk-workbench-alan-vo
-- [sentinel workbench alan vo](https://github.com/ALANDVO/sentinel-workbench-alan-vo) — Work in progress: sentinel-workbench-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
