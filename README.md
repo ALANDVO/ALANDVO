@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor foundry 144](https://github.com/ALANDVO/tensor-foundry-144) — Work in progress: tensor-foundry-144
 - [nexus lens alan vo](https://github.com/ALANDVO/nexus-lens-alan-vo) — Work in progress: nexus-lens-alan-vo
 - [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 - [prism console 144](https://github.com/ALANDVO/prism-console-144) — Work in progress: prism-console-144
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt hub 145](https://github.com/ALANDVO/cobalt-hub-145) — Work in progress: cobalt-hub-145
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Work in progress: ci-failure-triage-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
-- [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
