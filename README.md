@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit engine 147](https://github.com/ALANDVO/orbit-engine-147) — Work in progress: orbit-engine-147
 - [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
 - [orbit hub 145](https://github.com/ALANDVO/orbit-hub-145) — Work in progress: orbit-hub-145
 - [cobalt foundry alan vo](https://github.com/ALANDVO/cobalt-foundry-alan-vo) — Work in progress: cobalt-foundry-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [orbit workbench 145 alan vo](https://github.com/ALANDVO/orbit-workbench-145-alan-vo) — Work in progress: orbit-workbench-145-alan-vo
 - [tensor foundry 144](https://github.com/ALANDVO/tensor-foundry-144) — Work in progress: tensor-foundry-144
-- [nexus lens alan vo](https://github.com/ALANDVO/nexus-lens-alan-vo) — Work in progress: nexus-lens-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
