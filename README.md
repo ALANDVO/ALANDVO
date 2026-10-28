@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
 - [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
 - [sentinel console 144](https://github.com/ALANDVO/sentinel-console-144) — Work in progress: sentinel-console-144
 - [vector lab 144](https://github.com/ALANDVO/vector-lab-144) — Work in progress: vector-lab-144
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt station 145](https://github.com/ALANDVO/cobalt-station-145) — Work in progress: cobalt-station-145
 - [orbit forge alan vo](https://github.com/ALANDVO/orbit-forge-alan-vo) — Work in progress: orbit-forge-alan-vo
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
-- [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
