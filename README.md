@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel console 144](https://github.com/ALANDVO/sentinel-console-144) — Work in progress: sentinel-console-144
 - [vector lab 144](https://github.com/ALANDVO/vector-lab-144) — Work in progress: vector-lab-144
 - [prism lens 144](https://github.com/ALANDVO/prism-lens-144) — Work in progress: prism-lens-144
 - [cobalt station 145](https://github.com/ALANDVO/cobalt-station-145) — Work in progress: cobalt-station-145
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
 - [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
 - [cobalt foundry 144](https://github.com/ALANDVO/cobalt-foundry-144) — Work in progress: cobalt-foundry-144
-- [api fuzzer alan vo](https://github.com/ALANDVO/api-fuzzer-alan-vo) — Work in progress: api-fuzzer-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
