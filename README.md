@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom studio alan vo](https://github.com/ALANDVO/axiom-studio-alan-vo) — Work in progress: axiom-studio-alan-vo
 - [sentinel forge alan vo](https://github.com/ALANDVO/sentinel-forge-alan-vo) — Work in progress: sentinel-forge-alan-vo
 - [ml feature forge alan vo](https://github.com/ALANDVO/ml-feature-forge-alan-vo) — Work in progress: ml-feature-forge-alan-vo
 - [orbit lab alan vo](https://github.com/ALANDVO/orbit-lab-alan-vo) — Work in progress: orbit-lab-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus station alan vo](https://github.com/ALANDVO/nexus-station-alan-vo) — Work in progress: nexus-station-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
 - [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
-- [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
