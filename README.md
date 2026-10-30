@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt station alan vo](https://github.com/ALANDVO/cobalt-station-alan-vo) — Work in progress: cobalt-station-alan-vo
 - [axiom lens alan vo](https://github.com/ALANDVO/axiom-lens-alan-vo) — Work in progress: axiom-lens-alan-vo
 - [vector engine alan vo](https://github.com/ALANDVO/vector-engine-alan-vo) — Work in progress: vector-engine-alan-vo
 - [cloud security scanner alan vo](https://github.com/ALANDVO/cloud-security-scanner-alan-vo) — Work in progress: cloud-security-scanner-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [beacon observatory alan vo](https://github.com/ALANDVO/beacon-observatory-alan-vo) — Work in progress: beacon-observatory-alan-vo
 - [lumen observatory alan vo](https://github.com/ALANDVO/lumen-observatory-alan-vo) — Work in progress: lumen-observatory-alan-vo
 - [cloud cost optimizer alan vo](https://github.com/ALANDVO/cloud-cost-optimizer-alan-vo) — Work in progress: cloud-cost-optimizer-alan-vo
-- [orbit studio alan vo](https://github.com/ALANDVO/orbit-studio-alan-vo) — Work in progress: orbit-studio-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
