@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cloud security scanner alan vo](https://github.com/ALANDVO/cloud-security-scanner-alan-vo) — Work in progress: cloud-security-scanner-alan-vo
 - [prism forge alan vo](https://github.com/ALANDVO/prism-forge-alan-vo) — Work in progress: prism-forge-alan-vo
 - [beacon observatory alan vo](https://github.com/ALANDVO/beacon-observatory-alan-vo) — Work in progress: beacon-observatory-alan-vo
 - [lumen observatory alan vo](https://github.com/ALANDVO/lumen-observatory-alan-vo) — Work in progress: lumen-observatory-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit studio alan vo](https://github.com/ALANDVO/orbit-studio-alan-vo) — Work in progress: orbit-studio-alan-vo
 - [cobalt forge alan vo](https://github.com/ALANDVO/cobalt-forge-alan-vo) — Work in progress: cobalt-forge-alan-vo
 - [axiom engine alan vo](https://github.com/ALANDVO/axiom-engine-alan-vo) — Work in progress: axiom-engine-alan-vo
-- [rag knowledge engine alan vo](https://github.com/ALANDVO/rag-knowledge-engine-alan-vo) — Work in progress: rag-knowledge-engine-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
