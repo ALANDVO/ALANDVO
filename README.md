@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus workbench alan vo](https://github.com/ALANDVO/nexus-workbench-alan-vo) — Work in progress: nexus-workbench-alan-vo
 - [sentinel lens 144 alan vo](https://github.com/ALANDVO/sentinel-lens-144-alan-vo) — Work in progress: sentinel-lens-144-alan-vo
 - [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Work in progress: prompt-optimizer-alan-vo
 - [atlas forge 145 alan vo](https://github.com/ALANDVO/atlas-forge-145-alan-vo) — Work in progress: atlas-forge-145-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit station 144 alan vo](https://github.com/ALANDVO/orbit-station-144-alan-vo) — Work in progress: orbit-station-144-alan-vo
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Work in progress: rag-citation-auditor-alan-vo
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
-- [signal console 144 alan vo](https://github.com/ALANDVO/signal-console-144-alan-vo) — Work in progress: signal-console-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
