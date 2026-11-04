@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Work in progress: prompt-optimizer-alan-vo
 - [atlas forge 145 alan vo](https://github.com/ALANDVO/atlas-forge-145-alan-vo) — Work in progress: atlas-forge-145-alan-vo
 - [beacon engine alan vo](https://github.com/ALANDVO/beacon-engine-alan-vo) — Work in progress: beacon-engine-alan-vo
 - [orbit station 144 alan vo](https://github.com/ALANDVO/orbit-station-144-alan-vo) — Work in progress: orbit-station-144-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
 - [signal console 144 alan vo](https://github.com/ALANDVO/signal-console-144-alan-vo) — Work in progress: signal-console-144-alan-vo
 - [lumen pilot alan vo](https://github.com/ALANDVO/lumen-pilot-alan-vo) — Work in progress: lumen-pilot-alan-vo
-- [cobalt workbench 144 alan vo](https://github.com/ALANDVO/cobalt-workbench-144-alan-vo) — Work in progress: cobalt-workbench-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
