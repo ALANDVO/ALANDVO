@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector console alan vo](https://github.com/ALANDVO/vector-console-alan-vo) — Work in progress: vector-console-alan-vo
 - [nexus station alan vo](https://github.com/ALANDVO/nexus-station-alan-vo) — Work in progress: nexus-station-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
 - [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit forge alan vo](https://github.com/ALANDVO/orbit-forge-alan-vo) — Work in progress: orbit-forge-alan-vo
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
 - [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
-- [cobalt foundry 144](https://github.com/ALANDVO/cobalt-foundry-144) — Work in progress: cobalt-foundry-144
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
