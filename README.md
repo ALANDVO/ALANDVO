@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ai ml platform alan vo](https://github.com/ALANDVO/ai-ml-platform-alan-vo) — Work in progress: ai-ml-platform-alan-vo
 - [tensor observatory alan vo](https://github.com/ALANDVO/tensor-observatory-alan-vo) — Work in progress: tensor-observatory-alan-vo
 - [ai security ops alan vo](https://github.com/ALANDVO/ai-security-ops-alan-vo) — Work in progress: ai-security-ops-alan-vo
 - [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [atlas pilot alan vo](https://github.com/ALANDVO/atlas-pilot-alan-vo) — Work in progress: atlas-pilot-alan-vo
 - [log to observability alan vo](https://github.com/ALANDVO/log-to-observability-alan-vo) — Work in progress: log-to-observability-alan-vo
 - [cobalt lens alan vo](https://github.com/ALANDVO/cobalt-lens-alan-vo) — Work in progress: cobalt-lens-alan-vo
-- [lumen station alan vo](https://github.com/ALANDVO/lumen-station-alan-vo) — Work in progress: lumen-station-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
