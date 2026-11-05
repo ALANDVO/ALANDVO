@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit lens alan vo](https://github.com/ALANDVO/orbit-lens-alan-vo) — Work in progress: orbit-lens-alan-vo
 - [ai pair programmer alan vo](https://github.com/ALANDVO/ai-pair-programmer-alan-vo) — Work in progress: ai-pair-programmer-alan-vo
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Work in progress: code-review-ai-alan-vo
 - [prism lab alan vo](https://github.com/ALANDVO/prism-lab-alan-vo) — Work in progress: prism-lab-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit engine alan vo](https://github.com/ALANDVO/orbit-engine-alan-vo) — Work in progress: orbit-engine-alan-vo
 - [vector pilot 144 alan vo](https://github.com/ALANDVO/vector-pilot-144-alan-vo) — Work in progress: vector-pilot-144-alan-vo
 - [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
-- [cobalt hub alan vo](https://github.com/ALANDVO/cobalt-hub-alan-vo) — Work in progress: cobalt-hub-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
