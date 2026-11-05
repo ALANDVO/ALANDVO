@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
 - [cobalt foundry 144](https://github.com/ALANDVO/cobalt-foundry-144) — Work in progress: cobalt-foundry-144
 - [api fuzzer alan vo](https://github.com/ALANDVO/api-fuzzer-alan-vo) — Work in progress: api-fuzzer-alan-vo
 - [cobalt hub 145 2](https://github.com/ALANDVO/cobalt-hub-145-2) — Work in progress: cobalt-hub-145-2
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus forge alan vo](https://github.com/ALANDVO/nexus-forge-alan-vo) — Work in progress: nexus-forge-alan-vo
 - [orbit engine 147](https://github.com/ALANDVO/orbit-engine-147) — Work in progress: orbit-engine-147
 - [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
-- [axiom lens alan vo](https://github.com/ALANDVO/axiom-lens-alan-vo) — Work in progress: axiom-lens-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
