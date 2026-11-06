@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen observatory alan vo](https://github.com/ALANDVO/lumen-observatory-alan-vo) — Work in progress: lumen-observatory-alan-vo
 - [cloud cost optimizer alan vo](https://github.com/ALANDVO/cloud-cost-optimizer-alan-vo) — Work in progress: cloud-cost-optimizer-alan-vo
 - [orbit studio alan vo](https://github.com/ALANDVO/orbit-studio-alan-vo) — Work in progress: orbit-studio-alan-vo
 - [cobalt forge alan vo](https://github.com/ALANDVO/cobalt-forge-alan-vo) — Work in progress: cobalt-forge-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [rag knowledge engine alan vo](https://github.com/ALANDVO/rag-knowledge-engine-alan-vo) — Work in progress: rag-knowledge-engine-alan-vo
 - [cobalt observatory alan vo](https://github.com/ALANDVO/cobalt-observatory-alan-vo) — Work in progress: cobalt-observatory-alan-vo
 - [lumen lens alan vo](https://github.com/ALANDVO/lumen-lens-alan-vo) — Work in progress: lumen-lens-alan-vo
-- [nexus studio alan vo](https://github.com/ALANDVO/nexus-studio-alan-vo) — Work in progress: nexus-studio-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
