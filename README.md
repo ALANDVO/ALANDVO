@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — Work in progress: agent-trace-observatory-alan-vo
 - [tensor forge 144 alan vo](https://github.com/ALANDVO/tensor-forge-144-alan-vo) — Work in progress: tensor-forge-144-alan-vo
 - [atlas console alan vo](https://github.com/ALANDVO/atlas-console-alan-vo) — Work in progress: atlas-console-alan-vo
 - [orbit workbench 144 alan vo](https://github.com/ALANDVO/orbit-workbench-144-alan-vo) — Work in progress: orbit-workbench-144-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit hub 144 alan vo](https://github.com/ALANDVO/orbit-hub-144-alan-vo) — Work in progress: orbit-hub-144-alan-vo
 - [axiom console alan vo](https://github.com/ALANDVO/axiom-console-alan-vo) — Work in progress: axiom-console-alan-vo
 - [signal forge 144 alan vo](https://github.com/ALANDVO/signal-forge-144-alan-vo) — Work in progress: signal-forge-144-alan-vo
-- [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — Work in progress: model-evaluation-arena-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
