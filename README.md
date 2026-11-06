@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor lab alan vo](https://github.com/ALANDVO/tensor-lab-alan-vo) — Work in progress: tensor-lab-alan-vo
 - [cloud infra planner alan vo](https://github.com/ALANDVO/cloud-infra-planner-alan-vo) — Work in progress: cloud-infra-planner-alan-vo
 - [signal foundry alan vo](https://github.com/ALANDVO/signal-foundry-alan-vo) — Work in progress: signal-foundry-alan-vo
 - [sentinel foundry alan vo](https://github.com/ALANDVO/sentinel-foundry-alan-vo) — Work in progress: sentinel-foundry-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt station alan vo](https://github.com/ALANDVO/cobalt-station-alan-vo) — Work in progress: cobalt-station-alan-vo
 - [vector engine alan vo](https://github.com/ALANDVO/vector-engine-alan-vo) — Work in progress: vector-engine-alan-vo
 - [cloud security scanner alan vo](https://github.com/ALANDVO/cloud-security-scanner-alan-vo) — Work in progress: cloud-security-scanner-alan-vo
-- [prism forge alan vo](https://github.com/ALANDVO/prism-forge-alan-vo) — Work in progress: prism-forge-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
