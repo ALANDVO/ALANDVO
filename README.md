@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit studio alan vo](https://github.com/ALANDVO/orbit-studio-alan-vo) — Work in progress: orbit-studio-alan-vo
 - [cobalt forge alan vo](https://github.com/ALANDVO/cobalt-forge-alan-vo) — Work in progress: cobalt-forge-alan-vo
 - [axiom engine alan vo](https://github.com/ALANDVO/axiom-engine-alan-vo) — Work in progress: axiom-engine-alan-vo
 - [rag knowledge engine alan vo](https://github.com/ALANDVO/rag-knowledge-engine-alan-vo) — Work in progress: rag-knowledge-engine-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [lumen lens alan vo](https://github.com/ALANDVO/lumen-lens-alan-vo) — Work in progress: lumen-lens-alan-vo
 - [nexus studio alan vo](https://github.com/ALANDVO/nexus-studio-alan-vo) — Work in progress: nexus-studio-alan-vo
 - [ai cloud manager alan vo](https://github.com/ALANDVO/ai-cloud-manager-alan-vo) — Work in progress: ai-cloud-manager-alan-vo
-- [beacon pilot alan vo](https://github.com/ALANDVO/beacon-pilot-alan-vo) — Work in progress: beacon-pilot-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
