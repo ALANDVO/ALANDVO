@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel engine 145](https://github.com/ALANDVO/sentinel-engine-145) — Work in progress: sentinel-engine-145
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [orbit workbench 145 alan vo](https://github.com/ALANDVO/orbit-workbench-145-alan-vo) — Work in progress: orbit-workbench-145-alan-vo
 - [tensor foundry 144](https://github.com/ALANDVO/tensor-foundry-144) — Work in progress: tensor-foundry-144
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 - [prism console 144](https://github.com/ALANDVO/prism-console-144) — Work in progress: prism-console-144
 - [tensor forge alan vo](https://github.com/ALANDVO/tensor-forge-alan-vo) — Work in progress: tensor-forge-alan-vo
-- [cobalt hub 145](https://github.com/ALANDVO/cobalt-hub-145) — Work in progress: cobalt-hub-145
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
