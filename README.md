@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Work in progress: support-intent-observatory-alan-vo
 - [nexus hub alan vo](https://github.com/ALANDVO/nexus-hub-alan-vo) — Work in progress: nexus-hub-alan-vo
 - [rag engine alan vo](https://github.com/ALANDVO/rag-engine-alan-vo) — Work in progress: rag-engine-alan-vo
 - [atlas workbench alan vo](https://github.com/ALANDVO/atlas-workbench-alan-vo) — Work in progress: atlas-workbench-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [model release gatekeeper alan vo](https://github.com/ALANDVO/model-release-gatekeeper-alan-vo) — Work in progress: model-release-gatekeeper-alan-vo
 - [prism workbench 145 alan vo](https://github.com/ALANDVO/prism-workbench-145-alan-vo) — Work in progress: prism-workbench-145-alan-vo
 - [nexus workbench alan vo](https://github.com/ALANDVO/nexus-workbench-alan-vo) — Work in progress: nexus-workbench-alan-vo
-- [sentinel lens 144 alan vo](https://github.com/ALANDVO/sentinel-lens-144-alan-vo) — Work in progress: sentinel-lens-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
