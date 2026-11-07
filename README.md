@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
 - [lumen station 144 alan vo](https://github.com/ALANDVO/lumen-station-144-alan-vo) — Work in progress: lumen-station-144-alan-vo
 - [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Work in progress: meeting-minutes-alan-vo
 - [atlas forge alan vo](https://github.com/ALANDVO/atlas-forge-alan-vo) — Work in progress: atlas-forge-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel workbench alan vo](https://github.com/ALANDVO/sentinel-workbench-alan-vo) — Work in progress: sentinel-workbench-alan-vo
 - [atlas foundry alan vo](https://github.com/ALANDVO/atlas-foundry-alan-vo) — Work in progress: atlas-foundry-alan-vo
 - [cobalt observatory 144 alan vo](https://github.com/ALANDVO/cobalt-observatory-144-alan-vo) — Work in progress: cobalt-observatory-144-alan-vo
-- [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
