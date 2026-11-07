@@ -1,6 +1,6 @@
 # Alan Vo | AI & Machine Learning
 
-Website: [alanvo.net](https://alanvo.net)
+Website: [alanvo.net](https://alanvo.net) · [X: @alanvoasi](https://x.com/alanvoasi)
 
 I build and explore open-source AI and machine learning tools, with a focus on dependable agent systems, model evaluation, retrieval, and AI security.
 
@@ -71,4 +71,4 @@ I am interested in AI/ML engineering, applied AI, and AI platform opportunities.
 
 ---
 
-Alan Vo · [alanvo.net](https://alanvo.net)
+Alan Vo · [alanvo.net](https://alanvo.net) · [X: @alanvoasi](https://x.com/alanvoasi)
