@@ -66,3 +66,7 @@ I use AI-assisted development. Useful evidence is in the implementation: working
 I am interested in AI/ML engineering, applied AI, and AI platform opportunities.
 
 **Alan Vo** · [alanvo@gmail.com](mailto:alanvo@gmail.com) · [GitHub](https://github.com/ALANDVO)
+
+---
+
+Alan Vo · [alanvo.net](https://alanvo.net)
