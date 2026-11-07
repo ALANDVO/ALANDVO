@@ -47,6 +47,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Work in progress: rag-citation-auditor-alan-vo
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
 - [signal console 144 alan vo](https://github.com/ALANDVO/signal-console-144-alan-vo) — Work in progress: signal-console-144-alan-vo
 - [lumen pilot alan vo](https://github.com/ALANDVO/lumen-pilot-alan-vo) — Work in progress: lumen-pilot-alan-vo
@@ -54,7 +55,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — Work in progress: log-anomaly-detector-alan-vo
 - [nexus pilot 144 alan vo](https://github.com/ALANDVO/nexus-pilot-144-alan-vo) — Work in progress: nexus-pilot-144-alan-vo
 - [vector foundry alan vo](https://github.com/ALANDVO/vector-foundry-alan-vo) — Work in progress: vector-foundry-alan-vo
-- [signal lens 145 alan vo](https://github.com/ALANDVO/signal-lens-145-alan-vo) — Work in progress: signal-lens-145-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
