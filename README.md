@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom workbench alan vo](https://github.com/ALANDVO/axiom-workbench-alan-vo) — Work in progress: axiom-workbench-alan-vo
 - [axiom studio alan vo](https://github.com/ALANDVO/axiom-studio-alan-vo) — Work in progress: axiom-studio-alan-vo
 - [axiom observatory alan vo](https://github.com/ALANDVO/axiom-observatory-alan-vo) — Work in progress: axiom-observatory-alan-vo
 - [axiom lens alan vo](https://github.com/ALANDVO/axiom-lens-alan-vo) — Work in progress: axiom-lens-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [axiom foundry alan vo](https://github.com/ALANDVO/axiom-foundry-alan-vo) — Work in progress: axiom-foundry-alan-vo
 - [axiom engine alan vo](https://github.com/ALANDVO/axiom-engine-alan-vo) — Work in progress: axiom-engine-alan-vo
 - [axiom console alan vo](https://github.com/ALANDVO/axiom-console-alan-vo) — Work in progress: axiom-console-alan-vo
-- [atlas workbench alan vo](https://github.com/ALANDVO/atlas-workbench-alan-vo) — Work in progress: atlas-workbench-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
