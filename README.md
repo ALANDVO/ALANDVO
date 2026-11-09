@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen lens alan vo](https://github.com/ALANDVO/lumen-lens-alan-vo) — Work in progress: lumen-lens-alan-vo
 - [log to observability alan vo](https://github.com/ALANDVO/log-to-observability-alan-vo) — Work in progress: log-to-observability-alan-vo
 - [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — Work in progress: log-anomaly-detector-alan-vo
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [data quality auditor alan vo](https://github.com/ALANDVO/data-quality-auditor-alan-vo) — Work in progress: data-quality-auditor-alan-vo
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Work in progress: code-review-ai-alan-vo
 - [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
-- [cobalt workbench 144 alan vo](https://github.com/ALANDVO/cobalt-workbench-144-alan-vo) — Work in progress: cobalt-workbench-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
