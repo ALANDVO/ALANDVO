@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [log to observability alan vo](https://github.com/ALANDVO/log-to-observability-alan-vo) — Work in progress: log-to-observability-alan-vo
 - [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — Work in progress: log-anomaly-detector-alan-vo
 - [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
 - [identity risk workbench alan vo](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) — Work in progress: identity-risk-workbench-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [code review ai alan vo](https://github.com/ALANDVO/code-review-ai-alan-vo) — Work in progress: code-review-ai-alan-vo
 - [cobalt workbench alan vo](https://github.com/ALANDVO/cobalt-workbench-alan-vo) — Work in progress: cobalt-workbench-alan-vo
 - [cobalt workbench 144 alan vo](https://github.com/ALANDVO/cobalt-workbench-144-alan-vo) — Work in progress: cobalt-workbench-144-alan-vo
-- [cobalt studio alan vo](https://github.com/ALANDVO/cobalt-studio-alan-vo) — Work in progress: cobalt-studio-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
