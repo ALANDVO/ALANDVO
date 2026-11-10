@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel lens 144 alan vo](https://github.com/ALANDVO/sentinel-lens-144-alan-vo) — Work in progress: sentinel-lens-144-alan-vo
 - [sentinel hub alan vo](https://github.com/ALANDVO/sentinel-hub-alan-vo) — Work in progress: sentinel-hub-alan-vo
 - [sentinel foundry alan vo](https://github.com/ALANDVO/sentinel-foundry-alan-vo) — Work in progress: sentinel-foundry-alan-vo
 - [sentinel forge alan vo](https://github.com/ALANDVO/sentinel-forge-alan-vo) — Work in progress: sentinel-forge-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel console 144](https://github.com/ALANDVO/sentinel-console-144) — Work in progress: sentinel-console-144
 - [security posture scorer alan vo](https://github.com/ALANDVO/security-posture-scorer-alan-vo) — Work in progress: security-posture-scorer-alan-vo
 - [rag knowledge engine alan vo](https://github.com/ALANDVO/rag-knowledge-engine-alan-vo) — Work in progress: rag-knowledge-engine-alan-vo
-- [rag engine alan vo](https://github.com/ALANDVO/rag-engine-alan-vo) — Work in progress: rag-engine-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
