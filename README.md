@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Work in progress: prompt-optimizer-alan-vo
 - [prism workbench alan vo](https://github.com/ALANDVO/prism-workbench-alan-vo) — Work in progress: prism-workbench-alan-vo
 - [prism workbench 145 alan vo](https://github.com/ALANDVO/prism-workbench-145-alan-vo) — Work in progress: prism-workbench-145-alan-vo
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
 - [prism forge alan vo](https://github.com/ALANDVO/prism-forge-alan-vo) — Work in progress: prism-forge-alan-vo
 - [prism console 144](https://github.com/ALANDVO/prism-console-144) — Work in progress: prism-console-144
-- [orbit workbench 145 alan vo](https://github.com/ALANDVO/orbit-workbench-145-alan-vo) — Work in progress: orbit-workbench-145-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
