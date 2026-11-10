@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [rag knowledge engine alan vo](https://github.com/ALANDVO/rag-knowledge-engine-alan-vo) — Work in progress: rag-knowledge-engine-alan-vo
 - [rag engine alan vo](https://github.com/ALANDVO/rag-engine-alan-vo) — Work in progress: rag-engine-alan-vo
 - [rag citation auditor alan vo](https://github.com/ALANDVO/rag-citation-auditor-alan-vo) — Work in progress: rag-citation-auditor-alan-vo
 - [prompt optimizer alan vo](https://github.com/ALANDVO/prompt-optimizer-alan-vo) — Work in progress: prompt-optimizer-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism workbench 145 alan vo](https://github.com/ALANDVO/prism-workbench-145-alan-vo) — Work in progress: prism-workbench-145-alan-vo
 - [prism lens alan vo](https://github.com/ALANDVO/prism-lens-alan-vo) — Work in progress: prism-lens-alan-vo
 - [prism lab alan vo](https://github.com/ALANDVO/prism-lab-alan-vo) — Work in progress: prism-lab-alan-vo
-- [prism lab 145](https://github.com/ALANDVO/prism-lab-145) — Work in progress: prism-lab-145
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
