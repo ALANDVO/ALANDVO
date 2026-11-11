@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal lens 145 alan vo](https://github.com/ALANDVO/signal-lens-145-alan-vo) — Work in progress: signal-lens-145-alan-vo
 - [signal hub alan vo](https://github.com/ALANDVO/signal-hub-alan-vo) — Work in progress: signal-hub-alan-vo
 - [signal foundry alan vo](https://github.com/ALANDVO/signal-foundry-alan-vo) — Work in progress: signal-foundry-alan-vo
 - [signal forge 144 alan vo](https://github.com/ALANDVO/signal-forge-144-alan-vo) — Work in progress: signal-forge-144-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [sentinel workbench alan vo](https://github.com/ALANDVO/sentinel-workbench-alan-vo) — Work in progress: sentinel-workbench-alan-vo
 - [sentinel station alan vo](https://github.com/ALANDVO/sentinel-station-alan-vo) — Work in progress: sentinel-station-alan-vo
 - [sentinel pilot alan vo](https://github.com/ALANDVO/sentinel-pilot-alan-vo) — Work in progress: sentinel-pilot-alan-vo
-- [sentinel observatory alan vo](https://github.com/ALANDVO/sentinel-observatory-alan-vo) — Work in progress: sentinel-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
