@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [orbit workbench 146](https://github.com/ALANDVO/orbit-workbench-146) — Work in progress: orbit-workbench-146
 - [vector pilot alan vo](https://github.com/ALANDVO/vector-pilot-alan-vo) — Work in progress: vector-pilot-alan-vo
 - [vector pilot 144 alan vo](https://github.com/ALANDVO/vector-pilot-144-alan-vo) — Work in progress: vector-pilot-144-alan-vo
 - [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism forge 144](https://github.com/ALANDVO/prism-forge-144) — Work in progress: prism-forge-144
 - [vector lens 146 alan vo](https://github.com/ALANDVO/vector-lens-146-alan-vo) — Work in progress: vector-lens-146-alan-vo
 - [axiom station 144](https://github.com/ALANDVO/axiom-station-144) — Work in progress: axiom-station-144
-- [vector foundry alan vo](https://github.com/ALANDVO/vector-foundry-alan-vo) — Work in progress: vector-foundry-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
