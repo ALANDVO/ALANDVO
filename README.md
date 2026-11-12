@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ai cloud manager alan vo](https://github.com/ALANDVO/ai-cloud-manager-alan-vo) — Work in progress: ai-cloud-manager-alan-vo
 - [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — Work in progress: agent-trace-observatory-alan-vo
 - [vector workbench alan vo](https://github.com/ALANDVO/vector-workbench-alan-vo) — Work in progress: vector-workbench-alan-vo
 - [orbit workbench 146](https://github.com/ALANDVO/orbit-workbench-146) — Work in progress: orbit-workbench-146
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector pilot 144 alan vo](https://github.com/ALANDVO/vector-pilot-144-alan-vo) — Work in progress: vector-pilot-144-alan-vo
 - [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
 - [tensor foundry 145](https://github.com/ALANDVO/tensor-foundry-145) — Work in progress: tensor-foundry-145
-- [prism forge 144](https://github.com/ALANDVO/prism-forge-144) — Work in progress: prism-forge-144
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
