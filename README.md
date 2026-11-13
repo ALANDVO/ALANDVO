@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
 - [beacon observatory 146](https://github.com/ALANDVO/beacon-observatory-146) — Work in progress: beacon-observatory-146
 - [tensor observatory alan vo](https://github.com/ALANDVO/tensor-observatory-alan-vo) — Work in progress: tensor-observatory-alan-vo
 - [ai factory alan vo](https://github.com/ALANDVO/ai-factory-alan-vo) — Work in progress: ai-factory-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [ai devops tower alan vo](https://github.com/ALANDVO/ai-devops-tower-alan-vo) — Work in progress: ai-devops-tower-alan-vo
 - [ai data pipeline alan vo](https://github.com/ALANDVO/ai-data-pipeline-alan-vo) — Work in progress: ai-data-pipeline-alan-vo
 - [ai cloud manager alan vo](https://github.com/ALANDVO/ai-cloud-manager-alan-vo) — Work in progress: ai-cloud-manager-alan-vo
-- [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — Work in progress: agent-trace-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
