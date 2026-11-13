@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
 - [atlas pilot alan vo](https://github.com/ALANDVO/atlas-pilot-alan-vo) — Work in progress: atlas-pilot-alan-vo
 - [atlas lab alan vo](https://github.com/ALANDVO/atlas-lab-alan-vo) — Work in progress: atlas-lab-alan-vo
 - [atlas foundry alan vo](https://github.com/ALANDVO/atlas-foundry-alan-vo) — Work in progress: atlas-foundry-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [atlas forge 145 alan vo](https://github.com/ALANDVO/atlas-forge-145-alan-vo) — Work in progress: atlas-forge-145-alan-vo
 - [atlas console alan vo](https://github.com/ALANDVO/atlas-console-alan-vo) — Work in progress: atlas-console-alan-vo
 - [tensor hub 145](https://github.com/ALANDVO/tensor-hub-145) — Work in progress: tensor-hub-145
-- [vector forge alan vo](https://github.com/ALANDVO/vector-forge-alan-vo) — Work in progress: vector-forge-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
