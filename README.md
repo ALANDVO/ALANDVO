@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [axiom engine alan vo](https://github.com/ALANDVO/axiom-engine-alan-vo) — Work in progress: axiom-engine-alan-vo
 - [axiom console alan vo](https://github.com/ALANDVO/axiom-console-alan-vo) — Work in progress: axiom-console-alan-vo
 - [atlas workbench alan vo](https://github.com/ALANDVO/atlas-workbench-alan-vo) — Work in progress: atlas-workbench-alan-vo
 - [atlas studio alan vo](https://github.com/ALANDVO/atlas-studio-alan-vo) — Work in progress: atlas-studio-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [atlas lab alan vo](https://github.com/ALANDVO/atlas-lab-alan-vo) — Work in progress: atlas-lab-alan-vo
 - [atlas foundry alan vo](https://github.com/ALANDVO/atlas-foundry-alan-vo) — Work in progress: atlas-foundry-alan-vo
 - [atlas forge alan vo](https://github.com/ALANDVO/atlas-forge-alan-vo) — Work in progress: atlas-forge-alan-vo
-- [atlas forge 145 alan vo](https://github.com/ALANDVO/atlas-forge-145-alan-vo) — Work in progress: atlas-forge-145-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
