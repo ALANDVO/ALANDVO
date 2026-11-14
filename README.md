@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cloud cost optimizer alan vo](https://github.com/ALANDVO/cloud-cost-optimizer-alan-vo) — Work in progress: cloud-cost-optimizer-alan-vo
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Work in progress: ci-failure-triage-alan-vo
 - [beacon studio alan vo](https://github.com/ALANDVO/beacon-studio-alan-vo) — Work in progress: beacon-studio-alan-vo
 - [beacon pilot alan vo](https://github.com/ALANDVO/beacon-pilot-alan-vo) — Work in progress: beacon-pilot-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus studio 146](https://github.com/ALANDVO/nexus-studio-146) — Work in progress: nexus-studio-146
 - [beacon forge alan vo](https://github.com/ALANDVO/beacon-forge-alan-vo) — Work in progress: beacon-forge-alan-vo
 - [beacon engine alan vo](https://github.com/ALANDVO/beacon-engine-alan-vo) — Work in progress: beacon-engine-alan-vo
-- [axiom workbench alan vo](https://github.com/ALANDVO/axiom-workbench-alan-vo) — Work in progress: axiom-workbench-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
