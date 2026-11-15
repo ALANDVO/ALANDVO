@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt foundry 144](https://github.com/ALANDVO/cobalt-foundry-144) — Work in progress: cobalt-foundry-144
 - [cobalt forge alan vo](https://github.com/ALANDVO/cobalt-forge-alan-vo) — Work in progress: cobalt-forge-alan-vo
 - [cloud security scanner alan vo](https://github.com/ALANDVO/cloud-security-scanner-alan-vo) — Work in progress: cloud-security-scanner-alan-vo
 - [cloud infra planner alan vo](https://github.com/ALANDVO/cloud-infra-planner-alan-vo) — Work in progress: cloud-infra-planner-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Work in progress: ci-failure-triage-alan-vo
 - [beacon studio alan vo](https://github.com/ALANDVO/beacon-studio-alan-vo) — Work in progress: beacon-studio-alan-vo
 - [beacon pilot alan vo](https://github.com/ALANDVO/beacon-pilot-alan-vo) — Work in progress: beacon-pilot-alan-vo
-- [beacon observatory alan vo](https://github.com/ALANDVO/beacon-observatory-alan-vo) — Work in progress: beacon-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
