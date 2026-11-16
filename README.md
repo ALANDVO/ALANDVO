@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [cobalt observatory 144 alan vo](https://github.com/ALANDVO/cobalt-observatory-144-alan-vo) — Work in progress: cobalt-observatory-144-alan-vo
 - [cobalt lens alan vo](https://github.com/ALANDVO/cobalt-lens-alan-vo) — Work in progress: cobalt-lens-alan-vo
 - [cobalt hub alan vo](https://github.com/ALANDVO/cobalt-hub-alan-vo) — Work in progress: cobalt-hub-alan-vo
 - [cobalt hub 145 2](https://github.com/ALANDVO/cobalt-hub-145-2) — Work in progress: cobalt-hub-145-2
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt foundry 144](https://github.com/ALANDVO/cobalt-foundry-144) — Work in progress: cobalt-foundry-144
 - [cobalt forge alan vo](https://github.com/ALANDVO/cobalt-forge-alan-vo) — Work in progress: cobalt-forge-alan-vo
 - [cloud security scanner alan vo](https://github.com/ALANDVO/cloud-security-scanner-alan-vo) — Work in progress: cloud-security-scanner-alan-vo
-- [cloud infra planner alan vo](https://github.com/ALANDVO/cloud-infra-planner-alan-vo) — Work in progress: cloud-infra-planner-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
