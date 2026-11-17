@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus pilot 144 alan vo](https://github.com/ALANDVO/nexus-pilot-144-alan-vo) — Work in progress: nexus-pilot-144-alan-vo
 - [nexus lens alan vo](https://github.com/ALANDVO/nexus-lens-alan-vo) — Work in progress: nexus-lens-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
 - [nexus hub alan vo](https://github.com/ALANDVO/nexus-hub-alan-vo) — Work in progress: nexus-hub-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [model release gatekeeper alan vo](https://github.com/ALANDVO/model-release-gatekeeper-alan-vo) — Work in progress: model-release-gatekeeper-alan-vo
 - [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — Work in progress: model-evaluation-arena-alan-vo
 - [ml feature forge alan vo](https://github.com/ALANDVO/ml-feature-forge-alan-vo) — Work in progress: ml-feature-forge-alan-vo
-- [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Work in progress: meeting-minutes-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
