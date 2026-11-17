@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus workbench 145 alan vo](https://github.com/ALANDVO/nexus-workbench-145-alan-vo) — Work in progress: nexus-workbench-145-alan-vo
 - [nexus studio alan vo](https://github.com/ALANDVO/nexus-studio-alan-vo) — Work in progress: nexus-studio-alan-vo
 - [nexus station alan vo](https://github.com/ALANDVO/nexus-station-alan-vo) — Work in progress: nexus-station-alan-vo
 - [nexus pilot alan vo](https://github.com/ALANDVO/nexus-pilot-alan-vo) — Work in progress: nexus-pilot-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus lens alan vo](https://github.com/ALANDVO/nexus-lens-alan-vo) — Work in progress: nexus-lens-alan-vo
 - [nexus lens 145 alan vo](https://github.com/ALANDVO/nexus-lens-145-alan-vo) — Work in progress: nexus-lens-145-alan-vo
 - [nexus hub alan vo](https://github.com/ALANDVO/nexus-hub-alan-vo) — Work in progress: nexus-hub-alan-vo
-- [nexus forge alan vo](https://github.com/ALANDVO/nexus-forge-alan-vo) — Work in progress: nexus-forge-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
