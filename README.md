@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [vector engine alan vo](https://github.com/ALANDVO/vector-engine-alan-vo) — Work in progress: vector-engine-alan-vo
 - [ai security ops alan vo](https://github.com/ALANDVO/ai-security-ops-alan-vo) — Work in progress: ai-security-ops-alan-vo
 - [ai pair programmer alan vo](https://github.com/ALANDVO/ai-pair-programmer-alan-vo) — Work in progress: ai-pair-programmer-alan-vo
 - [vector console alan vo](https://github.com/ALANDVO/vector-console-alan-vo) — Work in progress: vector-console-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
 - [lumen studio 146](https://github.com/ALANDVO/lumen-studio-146) — Work in progress: lumen-studio-146
 - [sentinel pilot 146](https://github.com/ALANDVO/sentinel-pilot-146) — Work in progress: sentinel-pilot-146
-- [tensor observatory alan vo](https://github.com/ALANDVO/tensor-observatory-alan-vo) — Work in progress: tensor-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
