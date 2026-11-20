@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [ai factory alan vo](https://github.com/ALANDVO/ai-factory-alan-vo) — Work in progress: ai-factory-alan-vo
 - [ai devops tower alan vo](https://github.com/ALANDVO/ai-devops-tower-alan-vo) — Work in progress: ai-devops-tower-alan-vo
 - [ai data pipeline alan vo](https://github.com/ALANDVO/ai-data-pipeline-alan-vo) — Work in progress: ai-data-pipeline-alan-vo
 - [agent trace observatory alan vo](https://github.com/ALANDVO/agent-trace-observatory-alan-vo) — Work in progress: agent-trace-observatory-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit workbench 146](https://github.com/ALANDVO/orbit-workbench-146) — Work in progress: orbit-workbench-146
 - [vector pilot alan vo](https://github.com/ALANDVO/vector-pilot-alan-vo) — Work in progress: vector-pilot-alan-vo
 - [vector pilot 144 alan vo](https://github.com/ALANDVO/vector-pilot-144-alan-vo) — Work in progress: vector-pilot-144-alan-vo
-- [vector observatory alan vo](https://github.com/ALANDVO/vector-observatory-alan-vo) — Work in progress: vector-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
