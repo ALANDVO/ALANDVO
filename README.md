@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [tensor forge 144 alan vo](https://github.com/ALANDVO/tensor-forge-144-alan-vo) — Work in progress: tensor-forge-144-alan-vo
 - [tensor lens 145](https://github.com/ALANDVO/tensor-lens-145) — Work in progress: tensor-lens-145
 - [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Work in progress: support-intent-observatory-alan-vo
 - [signal studio alan vo](https://github.com/ALANDVO/signal-studio-alan-vo) — Work in progress: signal-studio-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [orbit foundry 146](https://github.com/ALANDVO/orbit-foundry-146) — Work in progress: orbit-foundry-146
 - [signal lens 145 alan vo](https://github.com/ALANDVO/signal-lens-145-alan-vo) — Work in progress: signal-lens-145-alan-vo
 - [signal hub alan vo](https://github.com/ALANDVO/signal-hub-alan-vo) — Work in progress: signal-hub-alan-vo
-- [signal foundry alan vo](https://github.com/ALANDVO/signal-foundry-alan-vo) — Work in progress: signal-foundry-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
