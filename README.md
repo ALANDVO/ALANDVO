@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [prism lens 144](https://github.com/ALANDVO/prism-lens-144) — Work in progress: prism-lens-144
 - [vector lab 144](https://github.com/ALANDVO/vector-lab-144) — Work in progress: vector-lab-144
 - [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
 - [sentinel foundry alan vo](https://github.com/ALANDVO/sentinel-foundry-alan-vo) — Work in progress: sentinel-foundry-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [tensor foundry 144](https://github.com/ALANDVO/tensor-foundry-144) — Work in progress: tensor-foundry-144
 - [tensor forge alan vo](https://github.com/ALANDVO/tensor-forge-alan-vo) — Work in progress: tensor-forge-alan-vo
 - [nexus studio 145](https://github.com/ALANDVO/nexus-studio-145) — Work in progress: nexus-studio-145
-- [tensor forge 144 alan vo](https://github.com/ALANDVO/tensor-forge-144-alan-vo) — Work in progress: tensor-forge-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
