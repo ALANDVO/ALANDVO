@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [sentinel lens 148](https://github.com/ALANDVO/sentinel-lens-148) — Work in progress: sentinel-lens-148
 - [cobalt studio alan vo](https://github.com/ALANDVO/cobalt-studio-alan-vo) — Work in progress: cobalt-studio-alan-vo
 - [cobalt station alan vo](https://github.com/ALANDVO/cobalt-station-alan-vo) — Work in progress: cobalt-station-alan-vo
 - [cobalt station 145](https://github.com/ALANDVO/cobalt-station-145) — Work in progress: cobalt-station-145
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [cobalt observatory 144 alan vo](https://github.com/ALANDVO/cobalt-observatory-144-alan-vo) — Work in progress: cobalt-observatory-144-alan-vo
 - [cobalt lens alan vo](https://github.com/ALANDVO/cobalt-lens-alan-vo) — Work in progress: cobalt-lens-alan-vo
 - [cobalt hub alan vo](https://github.com/ALANDVO/cobalt-hub-alan-vo) — Work in progress: cobalt-hub-alan-vo
-- [cobalt hub 145 2](https://github.com/ALANDVO/cobalt-hub-145-2) — Work in progress: cobalt-hub-145-2
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
