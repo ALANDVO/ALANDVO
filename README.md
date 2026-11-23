@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [signal studio alan vo](https://github.com/ALANDVO/signal-studio-alan-vo) — Work in progress: signal-studio-alan-vo
 - [signal lens alan vo](https://github.com/ALANDVO/signal-lens-alan-vo) — Work in progress: signal-lens-alan-vo
 - [orbit foundry 146](https://github.com/ALANDVO/orbit-foundry-146) — Work in progress: orbit-foundry-146
 - [signal lens 145 alan vo](https://github.com/ALANDVO/signal-lens-145-alan-vo) — Work in progress: signal-lens-145-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [prism foundry 145](https://github.com/ALANDVO/prism-foundry-145) — Work in progress: prism-foundry-145
 - [signal hub alan vo](https://github.com/ALANDVO/signal-hub-alan-vo) — Work in progress: signal-hub-alan-vo
 - [signal foundry alan vo](https://github.com/ALANDVO/signal-foundry-alan-vo) — Work in progress: signal-foundry-alan-vo
-- [signal forge 144 alan vo](https://github.com/ALANDVO/signal-forge-144-alan-vo) — Work in progress: signal-forge-144-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
