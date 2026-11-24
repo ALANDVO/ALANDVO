@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [nexus foundry 145](https://github.com/ALANDVO/nexus-foundry-145) — Work in progress: nexus-foundry-145
 - [vector engine alan vo](https://github.com/ALANDVO/vector-engine-alan-vo) — Work in progress: vector-engine-alan-vo
 - [tensor foundry 145](https://github.com/ALANDVO/tensor-foundry-145) — Work in progress: tensor-foundry-145
 - [ai security ops alan vo](https://github.com/ALANDVO/ai-security-ops-alan-vo) — Work in progress: ai-security-ops-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [vector console alan vo](https://github.com/ALANDVO/vector-console-alan-vo) — Work in progress: vector-console-alan-vo
 - [ai ml platform alan vo](https://github.com/ALANDVO/ai-ml-platform-alan-vo) — Work in progress: ai-ml-platform-alan-vo
 - [threat intel analyzer alan vo](https://github.com/ALANDVO/threat-intel-analyzer-alan-vo) — Work in progress: threat-intel-analyzer-alan-vo
-- [sentinel pilot 146](https://github.com/ALANDVO/sentinel-pilot-146) — Work in progress: sentinel-pilot-146
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
