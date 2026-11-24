@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [incident responder alan vo](https://github.com/ALANDVO/incident-responder-alan-vo) — Work in progress: incident-responder-alan-vo
 - [sentinel foundry alan vo](https://github.com/ALANDVO/sentinel-foundry-alan-vo) — Work in progress: sentinel-foundry-alan-vo
 - [tensor foundry alan vo](https://github.com/ALANDVO/tensor-foundry-alan-vo) — Work in progress: tensor-foundry-alan-vo
 - [tensor foundry 144](https://github.com/ALANDVO/tensor-foundry-144) — Work in progress: tensor-foundry-144
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [nexus studio 145](https://github.com/ALANDVO/nexus-studio-145) — Work in progress: nexus-studio-145
 - [tensor forge 144 alan vo](https://github.com/ALANDVO/tensor-forge-144-alan-vo) — Work in progress: tensor-forge-144-alan-vo
 - [tensor lens 145](https://github.com/ALANDVO/tensor-lens-145) — Work in progress: tensor-lens-145
-- [support intent observatory alan vo](https://github.com/ALANDVO/support-intent-observatory-alan-vo) — Work in progress: support-intent-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
