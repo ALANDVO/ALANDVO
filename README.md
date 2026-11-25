@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [lumen lab 147](https://github.com/ALANDVO/lumen-lab-147) — Work in progress: lumen-lab-147
 - [lumen pilot alan vo](https://github.com/ALANDVO/lumen-pilot-alan-vo) — Work in progress: lumen-pilot-alan-vo
 - [prism console 145](https://github.com/ALANDVO/prism-console-145) — Work in progress: prism-console-145
 - [lumen observatory alan vo](https://github.com/ALANDVO/lumen-observatory-alan-vo) — Work in progress: lumen-observatory-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [log to observability alan vo](https://github.com/ALANDVO/log-to-observability-alan-vo) — Work in progress: log-to-observability-alan-vo
 - [tensor hub 145](https://github.com/ALANDVO/tensor-hub-145) — Work in progress: tensor-hub-145
 - [log anomaly detector alan vo](https://github.com/ALANDVO/log-anomaly-detector-alan-vo) — Work in progress: log-anomaly-detector-alan-vo
-- [image dataset curator alan vo](https://github.com/ALANDVO/image-dataset-curator-alan-vo) — Work in progress: image-dataset-curator-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
