@@ -49,6 +49,7 @@ Fixes and improvements I’ve submitted to open-source projects.
 ## Public projects
 
 <!-- portfolio-projects:start -->
+- [model evaluation arena alan vo](https://github.com/ALANDVO/model-evaluation-arena-alan-vo) — Work in progress: model-evaluation-arena-alan-vo
 - [ci failure triage alan vo](https://github.com/ALANDVO/ci-failure-triage-alan-vo) — Work in progress: ci-failure-triage-alan-vo
 - [ml feature forge alan vo](https://github.com/ALANDVO/ml-feature-forge-alan-vo) — Work in progress: ml-feature-forge-alan-vo
 - [meeting minutes alan vo](https://github.com/ALANDVO/meeting-minutes-alan-vo) — Work in progress: meeting-minutes-alan-vo
@@ -56,7 +57,6 @@ Fixes and improvements I’ve submitted to open-source projects.
 - [lumen lab 147](https://github.com/ALANDVO/lumen-lab-147) — Work in progress: lumen-lab-147
 - [lumen pilot alan vo](https://github.com/ALANDVO/lumen-pilot-alan-vo) — Work in progress: lumen-pilot-alan-vo
 - [prism console 145](https://github.com/ALANDVO/prism-console-145) — Work in progress: prism-console-145
-- [lumen observatory alan vo](https://github.com/ALANDVO/lumen-observatory-alan-vo) — Work in progress: lumen-observatory-alan-vo
 <!-- portfolio-projects:end -->
 
 ## What to evaluate
